@@ -34,3 +34,12 @@ body{
     font-size: larger;
     background-color:rgb(146, 247, 247);
 }
+.descp{
+    float: right;
+    width: fit-content;
+    background-color: aqua;
+    padding: 10px;
+    font-size: large;
+    border-radius: 12px;
+    border: 2px solid rgb(253, 212, 30);
+}
